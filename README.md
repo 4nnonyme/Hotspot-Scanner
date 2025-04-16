@@ -22,4 +22,5 @@ cd Hotspot-Scanner
 ```
 ### Usage :
 ```bash
-python Hotspot_Scanner.py
+python main.py
+
