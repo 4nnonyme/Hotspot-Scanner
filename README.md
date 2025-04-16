@@ -16,7 +16,7 @@ To get started with **Hotspot Scanner**, you'll need to have Python installed on
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/hotspot-scanner.git
+git clone https://github.com/4nnonyme/hotspot-scanner.git
 cd Hotspot-Scanner
 
 ```
